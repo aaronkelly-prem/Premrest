@@ -7,7 +7,7 @@ What Premrest connects to, how it is scoped, and the one rule that governs all o
 | Tool | Use | Scope / status |
 |---|---|---|
 | **Pulse** (MCP) | Contacts, prospects, leads, Nick's account spread, quotes, service orders, pricing | Source of truth for Premrest contacts and account activity. Connected. |
-| **Firmable** (API) | Find target exec contacts — emails, mobiles | **Not connected yet.** Aaron enters the API key himself (see setup). Nick has a working Claude/Firmable setup to replicate. |
+| **Firmable** (REST API) | Find target exec contacts — emails, mobiles | Not an MCP server — a REST API (`https://api.firmable.com`, header `Authorization: Bearer $FIRMABLE_API_KEY`). Key lives **only** as the `FIRMABLE_API_KEY` environment variable, never in a tracked file. **Awaiting key paste + first live call.** |
 | **Gmail** | Read + draft email | **Premrest account only.** Needs authorising in connector settings before use. Never auto-send. |
 | **Google Calendar** | Calendar management (Full role — see `weekly-blocks.md`) | See account note below. |
 | **Slack** (premrest.slack.com) | Live reference for staff/service/hiring/accountability context, on request | Governed — see `governed/CONTEXT.md`. Live read when asked, not standing surveillance. |

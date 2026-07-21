@@ -18,7 +18,7 @@ _All handover open items are now closed. Remaining work is the tool setup below 
 
 ## Tool setup Aaron does himself
 
-4. **Firmable** — paste the API key into the MCP/env config (Claude guides to the right place, never handles the raw key). Replicate Nick's working Claude/Firmable setup. Have "the code" ready.
+4. **Firmable** — Firmable has **no MCP server**; it is a REST API. Set `FIRMABLE_API_KEY` (Nick's `fbl_…` key) in Claude Code web → environment → **Environment Variables**. Nothing goes in the repo. Claude then calls `https://api.firmable.com` with `Authorization: Bearer $FIRMABLE_API_KEY`. **Pending:** key paste + verification in a fresh session (Claude never handles the raw key).
 5. **Gmail** — authorise the Gmail connector for the **Premrest account only**, in connector settings. Currently unauthorised.
 
 ## Deliberately deferred (do NOT build yet)
