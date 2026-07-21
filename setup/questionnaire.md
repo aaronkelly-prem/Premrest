@@ -10,9 +10,11 @@ Answers get written into `_shared/`. Once answered, no run should re-ask them. S
 - **Existing partners** — light-touch tracking chosen, but **there are no partners yet** (prospecting creates the first ones), so this is dormant until a relationship exists. Written into `_shared/weekly-blocks.md`. ✓
 - **Speaking** — Tuesday block is sourcing/booking speaking spots that represent Premrest, for Aaron or team members (Tim Bradbury, Colin Saddington). Separate from personal LGBTQ+ speaking. Written into `_shared/weekly-blocks.md`. ✓
 
+- **Roster** — roles and reporting lines confirmed by Aaron; formal role docs stored in `_shared/roles/`. Aaron reports to **Ben Young (MD)**; Special Projects (Colin Saddington, with Jack Collins under him) sits under Cleaning; Perry currently covers both client-service roles with no reports; Micah is in a new Operations & Process Improvement Coordinator role. Written into `_shared/team.md`. ✓
+
 ## Still open — needed to finish the factory
 
-1. **Roster role lines** (`_shared/team.md`). Confirm the role and "what Aaron calls on them for" for **Perry Sandoval, Micah Liwanag, Bella Young, Mehdi Soltani**. Confirm whether **Colin Saddington** is a direct report or a separate team. Confirm whether **Ben Young** (likely the Pulse/Lovable builder) and any other head-office staff belong in the roster.
+_All handover open items are now closed. Remaining work is the tool setup below and the deferred phases._
 
 ## Tool setup Aaron does himself
 
