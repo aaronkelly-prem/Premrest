@@ -21,6 +21,12 @@ So Claude's job with the calendar (Full role):
 - Propose scheduling and draft invites that fit the rhythm; flag when something is landing on a block Aaron might want to protect.
 - Never treat a block as immovable, and never send or book anything without Aaron (human gate).
 
-## Speaking / presenting (Tuesday) — scope [confirm]
+## Speaking / presenting (Tuesday)
 
-Treat speaking/presenting opportunities here as **Premrest thought-leadership as GM only**. Aaron's personal LGBTQ+ speaking lives in the personal-brand workspace and never mixes in here. **[Awaiting Aaron's confirmation — see setup/questionnaire.md.]**
+This block is about **sourcing and booking speaking opportunities that represent Premrest** — for Aaron as GM, or for other Premrest people into speaking spots (e.g. Tim Bradbury, Colin Saddington). Thought-leadership for the business. Claude finds relevant opportunities and drafts the pitch/application; nothing books or sends without Aaron (human gate).
+
+Aaron's personal LGBTQ+ speaking is a separate life and lives in the personal-brand workspace. It never mixes in here.
+
+## Existing relationship management (Tuesday) — dormant for now
+
+Premrest has **no top-down partners yet** — they are what prospecting is built to create. Until partnerships exist there is nothing to nurture, so this part of the Tuesday block is dormant. When a prospecting outreach converts into a real relationship, that partner becomes an existing relationship to manage light-touch (surface who has gone quiet, prompt a check-in). No partner list to scan yet.

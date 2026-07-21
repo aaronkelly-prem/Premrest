@@ -7,13 +7,12 @@ Answers get written into `_shared/`. Once answered, no run should re-ask them. S
 - **ICM method** — follow the icm-architect skill (installed). ✓
 - **Google scoping** — full cross-account calendar view is intended for Aaron's insight; the wall is content-only. Written into `_shared/tools.md`. ✓
 - **Calendar role** — Full: blocks are "Free" themes for open office time, not hard holds. Claude surfaces block-themed work, proposes/drafts scheduling, all gated. Written into `_shared/weekly-blocks.md`. ✓
-- **Existing partners** — light-touch tracking: surface who has gone quiet, prompt check-ins, no auto-drafting. ✓
+- **Existing partners** — light-touch tracking chosen, but **there are no partners yet** (prospecting creates the first ones), so this is dormant until a relationship exists. Written into `_shared/weekly-blocks.md`. ✓
+- **Speaking** — Tuesday block is sourcing/booking speaking spots that represent Premrest, for Aaron or team members (Tim Bradbury, Colin Saddington). Separate from personal LGBTQ+ speaking. Written into `_shared/weekly-blocks.md`. ✓
 
 ## Still open — needed to finish the factory
 
 1. **Roster role lines** (`_shared/team.md`). Confirm the role and "what Aaron calls on them for" for **Perry Sandoval, Micah Liwanag, Bella Young, Mehdi Soltani**. Confirm whether **Colin Saddington** is a direct report or a separate team. Confirm whether **Ben Young** (likely the Pulse/Lovable builder) and any other head-office staff belong in the roster.
-2. **Speaking scope** (`_shared/weekly-blocks.md`). Confirm Tuesday speaking/presenting is Premrest thought-leadership as GM only, kept separate from personal LGBTQ+ speaking.
-3. **Existing relationship management** — light-touch is chosen. Confirm where existing partners live in Pulse (which list/pipeline) so Claude knows what to scan for "gone quiet".
 
 ## Tool setup Aaron does himself
 
