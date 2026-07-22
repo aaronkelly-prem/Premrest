@@ -30,18 +30,23 @@ Learning outcomes → Why it matters (safety / quality / cost) → Chemistry & t
 
 Same skeleton every time so production is a factory line and the learner experience is consistent.
 
+This work runs in its own Claude project ("Premrest Cleaning Academy"). The `project/` folder is the pack that project runs on: paste-in instructions plus the knowledge files. See `project/SETUP.md`.
+
 ## Factory vs product
 
-- **Factory (stable):** this file, `lms-spec.md`, `modules/CONTEXT.md` (the map), `sources/CONTEXT.md`, the blueprint above.
+- **Factory (stable):** this file and everything in `project/` (instructions, map, spec, kit, sources), plus the blueprint above.
 - **Product (new per module):** each `modules/<module>/` folder — script, test bank, practical checklist, shot list.
 
 ## Route by the task
 
 | Task | Go to |
 |---|---|
-| The locked module map + build status | `modules/CONTEXT.md` |
-| The Pulse course-engine feature spec (for Ben) | `lms-spec.md` |
-| Where source material lives (handbook, SDS, Actichem guides) | `sources/CONTEXT.md` |
+| Stand up / configure the Claude project | `project/SETUP.md` |
+| The project's paste-in instructions | `project/PROJECT-INSTRUCTIONS.md` |
+| The locked module map + build status | `project/modules-map.md` |
+| The module production kit (templates + method) | `project/module-production-kit.md` |
+| The Pulse course-engine feature spec (for Ben) | `project/lms-spec.md` |
+| Where source material lives (handbook, SDS, Actichem guides) | `project/sources.md` |
 | Build/script a specific module | `modules/<module>/` |
 
 ## The wall & the gate (inherited, non-negotiable)

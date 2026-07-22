@@ -6,7 +6,8 @@ What we build scripts and tests from. Heavy assets (PDFs, video) live in **Googl
 
 | Source | Where it lives | Covers |
 |---|---|---|
-| Actichem Carpet & Upholstery Handbook (PDF) | **Google Drive → to be created:** `Premrest / Cleaning Training / Source Material /` — Aaron to upload | Carpet + upholstery theory, spotting, chemistry |
+| Actichem Carpet & Upholstery Handbook (PDF) | **Google Drive:** `Carpet-Handbook-_-March-2026.pdf` — https://drive.google.com/file/d/1l610VXzDdDBTs_h3PGwqpKzReR395ryq/view | Carpet + upholstery theory, spotting, chemistry |
+| Cleaning Tech Onboarding Handbook 2025 (PDF) | **Google Drive:** https://drive.google.com/file/d/1XvcIfQR2XOLzW8BjJ9wtCbbFqJs63T9l/view | Feeds "Welcome to Premrest" + induction content |
 | Actichem how-to guides | https://actichem.com.au/knowledge-centre-category/cleaning-how-to-guides/ | Spotting, hard-floor method, product use |
 | Product data — BonnetPro Surround, Rocket; Actichem spotting/hard-floor range; BONA timber | Vendor sites (source online) | Dilution, dwell, application, compatibility |
 | SDS (Safety Data Sheets) | **Pulse** — pull per chemical | WHS & Chemical Safety module; hazard/PPE content |
@@ -30,4 +31,4 @@ What we build scripts and tests from. Heavy assets (PDFs, video) live in **Googl
 
 Filled in as each module is scripted — which handbook sections, which Actichem guides, which SDS. Keeps every claim traceable to a source (matters if this ever goes toward RTO recognition).
 
-> Note: no "Cleaning Training" folder existed in Drive at scaffold time. Aaron to create `Premrest / Cleaning Training / Source Material /` and drop the handbook there, then confirm the name so it can be read directly.
+> Handbook confirmed in Drive and readable (`Carpet-Handbook-_-March-2026.pdf`, 51 MB, March 2026 edition).
